@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">D3WO_v3</string>
+    <string name="tv_dmgRoll">Min / Max Damage</string>
+    <string name="tv_eleDmg">Min / Max Ele Dmg</string>
+    <string name="tv_weapAs">Weapon Attack Speed</string>
+    <string-array name="weapType">
+        <item>Sword</item>
+        <item>Mace</item>
+        <item>Axe</item>
+        <item>Mighty Weapon</item>
+        <item>Flail</item>
+        <item>Sycth</item>
+        <item>Polearm</item>
+        <item>Staff</item>
+        <item>Spear</item>
+        <item>Diabo</item>
+        <item>X-Bow</item>
+        <item>Bow</item>
+        <item>Dagger</item>
+        <item>Ceremonial Knife</item>
+        <item>Wand</item>
+        <item>Fist Weapon</item>
+    </string-array>
+</resources>
